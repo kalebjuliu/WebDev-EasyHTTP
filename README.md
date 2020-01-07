@@ -1,3 +1,3 @@
-# Easy HTTp | HTTP Library
+# Easy HTTP | HTTP Library
 
-a simple self made http library using ajax and callbacks ( btw callback is confusing as shit.. god help)
+Self made http library using ajax and callbacks ( btw callback is confusing as shit.. god help)
